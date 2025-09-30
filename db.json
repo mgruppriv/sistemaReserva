@@ -25,23 +25,6 @@
       "name": "Administrador",
       "email": "admin@example.com",
       "role": "admin"
-    },
-    {
-      "id": "3815",
-      "name": "MANUEL VARGAS AZAÑERO",
-      "email": "mvargas@nttdata.com",
-      "username": "manuel",
-      "password": "manuel123",
-      "role": "customer"
-    },
-    {
-      "id": "e57c",
-      "name": "RODOLFO",
-      "email": "rodolfo@nttdata.com",
-      "username": "manuelv",
-      "password": "123456",
-      "role": "customer",
-      "document": "72883748"
     }
   ],
   "flights": [
